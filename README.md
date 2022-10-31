@@ -14,6 +14,6 @@ python -m pip install --upgrade pip
 ```
 ```
 pip install -r requirements.txt
-
+```
 по списку ингредиентов выдаёт ссылку на рецепт с ресурса:
 'https://api.edamam.com/api/recipes/v2'
